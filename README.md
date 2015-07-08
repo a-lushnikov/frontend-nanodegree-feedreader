@@ -23,7 +23,7 @@ You will learn how to use Jasmine to write a number of tests against a pre-exist
 
 # How will I complete this project?
 
-1. Download the [required project assets](http://github.com/udacity/frontend-nanodegree-feedreader).
++ 1. Download the [required project assets](http://github.com/udacity/frontend-nanodegree-feedreader).
 2. Review the functionality of the application within your browser.
 3. Explore the application's HTML (*./index.html*), CSS (*./css/style.css*) and JavaScript (*./js/app.js*) to gain an understanding of how it works.
 4. Explore the Jasmine spec file in *./jasmine/spec/feedreader.js*
